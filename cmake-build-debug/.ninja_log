@@ -1,0 +1,12 @@
+# ninja log v5
+524	570	1674442122059338947	project1_phase1	b90a017114dcb8c8
+0	4	0	clean	3c8e6cc385ee00ba
+11	709	6967326063882245	CMakeFiles/project1_phase1.dir/Tokenizer.cpp.obj	c7ac0cd2b54ac3b1
+6	737	6967326064181434	CMakeFiles/project1_phase1.dir/Token.cpp.obj	2783d6ac0f1322df
+4	522	6967330055978697	CMakeFiles/project1_phase1.dir/main.cpp.obj	36efeeca881c0c19
+523	683	6967330057564514	project1_phase1.exe	1c365b90837c8e3
+4	671	6967342532902940	CMakeFiles/project1_phase1.dir/Tokenizer.cpp.obj	c7ac0cd2b54ac3b1
+672	827	6967342534438824	project1_phase1.exe	1c365b90837c8e3
+13	700	6967347873810506	CMakeFiles/project1_phase1.dir/Tokenizer.cpp.obj	c7ac0cd2b54ac3b1
+7	720	6967347874019583	CMakeFiles/project1_phase1.dir/main.cpp.obj	36efeeca881c0c19
+721	879	6967347875565449	project1_phase1.exe	1c365b90837c8e3
